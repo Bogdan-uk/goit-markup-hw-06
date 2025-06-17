@@ -901,11 +901,10 @@ h5 {
 }
 @media screen and (min-width: 1158px) {
   .footer-container {
-    padding: 0;
+    padding: 0 15px;
     flex-wrap: nowrap;
   }
   .footer {
-    padding: 0;
     padding: 100px 0;
   }
   .footer-media-container {
@@ -913,6 +912,9 @@ h5 {
   }
   .footer-container-text {
     margin-right: 120px;
+  }
+  .footer-mail-container {
+    margin-top: 0;
   }
   .footer-mail-text {
     margin-left: auto;
